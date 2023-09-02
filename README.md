@@ -1,3 +1,11 @@
+
+Overview: This is the simple  site for the Quiz App( frontend ). Features: 
+- User can log in. 
+- Can give exams with a time limit.
+- Can get results after finishing the quiz with the correct answers.
+- Technologies: react
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
